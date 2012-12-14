@@ -1,4 +1,4 @@
 WS2012-googleDB-project
 =======================
 
-University Project to experiment with various Google-Technologies such as bigquery or spreadsheet.
+University project to experiment with various google-technologies such as bigquery or spreadsheet.
